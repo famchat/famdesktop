@@ -1,4 +1,4 @@
-# 🌀 [Fam Desktop][famchat_desktop] Messenger
+# [🌀 FamChat Desktop][fam_desktop] Messenger
 
 # Older info below (borrowed from Telegram source code)
 
